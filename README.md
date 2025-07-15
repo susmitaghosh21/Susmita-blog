@@ -1,2 +1,1 @@
 # Susmita-blog
-blog.html
